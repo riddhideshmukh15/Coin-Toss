@@ -1,47 +1,67 @@
-# 🪙 Coin Toss Game
+🪙 Coin Tossing Game
 
-A simple **Coin Toss Game** built using Python.
-The program randomly generates either **Heads** or **Tails**.
+A simple Python project that simulates tossing a coin multiple times and displays the number and percentage of Heads and Tails.
 
-## 🚀 Features
+📌 Features
 
-* Randomly selects Heads or Tails
-* Simple and beginner-friendly Python project
-* Uses Python's `random` module
-* Easy to understand and run
+- 🪙 Simulates a coin toss using Python's "random" module
+- 🔢 Allows the user to choose the number of tosses
+- 📊 Counts the number of Heads and Tails
+- 📈 Calculates the percentage of Heads and Tails
+- 💻 Simple and beginner-friendly console interface
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
-* Python
-* Random Module
+- Python
+- "random" module
 
-## ▶️ How to Run
+▶️ How to Run
 
-1. Make sure Python is installed.
-2. Clone this repository.
-3. Open the project folder in the terminal.
-4. Run:
+1. Make sure Python is installed on your computer.
+2. Clone this repository:
 
-```bash
-python coin-toss.py
-```
+git clone https://github.com/your-username/Coin_Tossing_Game.git
 
-## 📌 Example Output
+3. Open the project folder:
 
-```text
-Coin Tossing....
-Result: Heads
-```
+cd Coin_Tossing_Game
 
-## 🎯 Purpose
+4. Run the program:
 
-This project was created as a **beginner Python project** to practice:
+python coin_tossing.py
 
-* Variables
-* Lists
-* `random.choice()`
-* Printing output
+💡 Example
 
-## 👩‍💻 Author
+===== COIN TOSSING GAME =====
+How many times do you want to toss? 5
 
-**Riddhi Deshmukh**
+Toss 1: Heads
+Toss 2: Tails
+Toss 3: Heads
+Toss 4: Heads
+Toss 5: Tails
+
+===== FINAL RESULT =====
+Heads: 3
+Tails: 2
+Heads percentage: 60.0 %
+Tails percentage: 40.0 %
+
+🎯 Learning Objectives
+
+This project helped me practice:
+
+- "random.choice()"
+- Variables
+- "for" loops
+- "if-else" conditions
+- User input
+- Counters
+- Basic calculations
+- Percentage calculation
+
+👩‍💻 Author
+
+Riddhi Deshmukh
+
+This is one of my beginner Python projects created while learning Python programming.
