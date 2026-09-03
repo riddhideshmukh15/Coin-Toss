@@ -64,4 +64,3 @@ This project helped me practice:
 
 Riddhi Deshmukh
 
-This is one of my beginner Python projects created while learning Python programming.
