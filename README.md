@@ -58,4 +58,3 @@ Riddhi Deshmukh
 - Add a graphical user interface (GUI).
 
 ---
-⭐ If you like this project, consider giving the repository a star!
