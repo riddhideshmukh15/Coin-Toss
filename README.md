@@ -1,66 +1,61 @@
-🪙 Coin Tossing Game
+# 🪙 Coin Tossing Game
 
-A simple Python project that simulates tossing a coin multiple times and displays the number and percentage of Heads and Tails.
+## 📌 About the Project
+The Coin Tossing Game is a simple Python project that simulates flipping a coin. The user guesses whether the result will be Heads or Tails and earns points for correct guesses.
 
-📌 Features
+This project is designed for beginners to practice Python programming concepts.
 
-- 🪙 Simulates a coin toss using Python's "random" module
-- 🔢 Allows the user to choose the number of tosses
-- 📊 Counts the number of Heads and Tails
-- 📈 Calculates the percentage of Heads and Tails
-- 💻 Simple and beginner-friendly console interface
+## ✨ Features
+- 🎲 Randomly generates Heads or Tails.
+- 🔢 Allows the user to choose the number of tosses.
+- 🎯 Lets the user guess the coin result.
+- 🏆 Tracks correct and incorrect guesses.
+- 📊 Displays the number and percentage of Heads and Tails.
+- 🔄 Allows the user to play again.
+- ✅ Validates guesses and toss count.
 
-🛠️ Technologies Used
-
+## 🛠️ Technologies Used
 - Python
-- "random" module
+- Random module
 
-▶️ How to Run
+## ▶️ How to Run
+1. Install Python on your computer.
+2. Download or clone this repository.
+3. Open the project folder in your terminal.
+4. Run the Python file:
 
-1. Make sure Python is installed on your computer.
-2. Clone this repository:
+   ```bash
+   python coin_toss.py
+   ```
 
-git clone https://github.com/your-username/Coin_Tossing_Game.git
+   Replace `coin_toss.py` with your actual Python filename if it is different.
 
-3. Open the project folder:
+## 🎮 How to Play
+1. Enter the number of coin tosses.
+2. Guess Heads or Tails for each toss.
+3. Check the randomly generated result.
+4. Earn points for correct guesses.
+5. View your final score and the percentages of Heads and Tails.
+6. Choose whether to play again.
 
-cd Coin_Tossing_Game
+## 📚 Concepts Learned
+- Variables and data types
+- `if-else` statements
+- `for` and `while` loops
+- User input and validation
+- Random number selection
+- Counters and score calculation
+- Percentage calculations
+- String formatting
 
-4. Run the program:
-
-python coin_tossing.py
-
-💡 Example
-
-===== COIN TOSSING GAME =====
-How many times do you want to toss? 5
-
-Toss 1: Heads
-Toss 2: Tails
-Toss 3: Heads
-Toss 4: Heads
-Toss 5: Tails
-
-===== FINAL RESULT =====
-Heads: 3
-Tails: 2
-Heads percentage: 60.0 %
-Tails percentage: 40.0 %
-
-🎯 Learning Objectives
-
-This project helped me practice:
-
-- "random.choice()"
-- Variables
-- "for" loops
-- "if-else" conditions
-- User input
-- Counters
-- Basic calculations
-- Percentage calculation
-
-👩‍💻 Author
-
+## 👩‍💻 Author
 Riddhi Deshmukh
 
+## 🌟 Future Improvements
+- Add a two-player mode.
+- Maintain a high-score record.
+- Display a match history.
+- Add a graphical user interface (GUI).
+
+---
+⭐ If you like this project, consider giving the repository a star!
